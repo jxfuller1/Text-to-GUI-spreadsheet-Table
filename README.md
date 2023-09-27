@@ -6,7 +6,7 @@ to allow for being able to highlight and copy/paste cells properly into say Exce
 ![Capture](https://user-images.githubusercontent.com/123666150/233745569-7900016a-450c-462b-9cd3-099bcff556fe.PNG)
 
 
-Additional one using tables that contains buttons and collates data together from multiple sources:
+Additional one using tables that contains buttons and collates data together from multiple sources.  Also finds printers and allows for printer selection for printing files with 1 click.
 
 
 ![sfsdfsd](https://github.com/jxfuller1/Text-to-GUI-spreadsheet-Table/assets/123666150/05d9fb51-dea8-4d35-ae56-70d7f8a51e95)
